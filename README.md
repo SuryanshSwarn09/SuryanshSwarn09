@@ -36,4 +36,22 @@ I am open to discussing React architecture, quantum computing, or cinematic prod
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuryanshSwarn09&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 🚀 My Live Projects
+
+<p align="center">
+
+<a href="https://markdown-pdf-self.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=react" height="70"/>
+</a>
+
+<a href="https://rail-one-app.vercel.app/login">
+  <img src="https://skillicons.dev/icons?i=python" height="70"/>
+</a>
+
+<a href="https://eat-and-park-webapp.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=cpp" height="70"/>
+</a>
+
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
