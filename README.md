@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="SuryanshSwarn09's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ## Professional Profile
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suryanshswarn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshswarn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryanshswarn@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white)](https://leetcode.com/SWARN09)
