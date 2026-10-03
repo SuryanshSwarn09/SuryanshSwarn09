@@ -14,7 +14,11 @@ I am a developer focused on building scalable web solutions while exploring the 
 ---
 
 ## GitHub Stats:
+<div align="center">
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SuryanshSwarn09&custom_title=Stats&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=SuryanshSwarn09&custom_title=Stats&show_icons=true&include_all_commits=true&theme=codeSTACKr)
+
+</div>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuryanshSwarn09&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
