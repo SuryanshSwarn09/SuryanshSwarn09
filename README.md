@@ -1,3 +1,4 @@
+
 <img align="right" width="150" src="https://github.com/user-attachments/assets/4cc4d9a8-9bbb-4e52-83a9-fdc76da22f85" alt="Octocat">
 
 
@@ -22,3 +23,7 @@ I am a developer focused on building scalable web solutions while exploring the 
 </div>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuryanshSwarn09&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+ 
+---
+
+<img width="100%" alt="SuryanshSwarn09-space-shooter" src="https://github.com/user-attachments/assets/26fb732b-9872-451f-bddf-2cd99c8e20a2" />
