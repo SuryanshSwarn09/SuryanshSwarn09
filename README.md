@@ -8,7 +8,7 @@ I am a developer focused on building scalable web solutions while exploring the 
 
 ## Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,latex,vercel,netlify,react,tailwindcss,vite" height="35" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,latex,vercel,netlify,react,tailwindcss,vite" height="35" />
 </p>
 
 ---
