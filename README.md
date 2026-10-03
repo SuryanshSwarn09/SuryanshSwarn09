@@ -22,4 +22,3 @@ I am a developer focused on building scalable web solutions while exploring the 
 </div>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SuryanshSwarn09&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p><img width="2000" height="2000" alt="octocat-1791007136425" src="https://github.com/user-attachments/assets/73e3864b-9926-4828-a489-6e0d25bd35cd" />
