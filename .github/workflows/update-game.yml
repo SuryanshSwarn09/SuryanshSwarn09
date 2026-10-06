@@ -17,7 +17,7 @@ jobs:
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: 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
+          github-token: "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"
           username: "SuryanshSwarn09"
           output-path: "space-shooter.gif"
           strategy: "random"
