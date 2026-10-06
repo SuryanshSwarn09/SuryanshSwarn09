@@ -28,4 +28,6 @@ I am a developer focused on building scalable web solutions while exploring the 
  
 ---
 
-<img width="100%" alt="SuryanshSwarn09-space-shooter" src="https://github.com/user-attachments/assets/26fb732b-9872-451f-bddf-2cd99c8e20a2" />
+<p align="center">
+  <img src="space-shooter.gif" alt="Space Shooter Contribution Graph" width="100%" />
+</p>
