@@ -2,8 +2,12 @@ name: GitHub Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to trigger the update manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# THIS IS THE NEW SECTION YOU NEED TO ADD
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -12,12 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2 # Required to avoid repository bloat by amending commits
+          fetch-depth: 2
 
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token:  ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           username: "SuryanshSwarn09"
           output-path: "space-shooter.gif"
           strategy: "random"
