@@ -1,10 +1,9 @@
 
-<img align="right" width="150" src="https://github.com/user-attachments/assets/4cc4d9a8-9bbb-4e52-83a9-fdc76da22f85" alt="Octocat">
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suryanshswarn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshswarn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryanshswarn@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?logo=leetcode&logoColor=white)](https://leetcode.com/SWARN09)
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="80%" alt="My koi" align = "centre" />
  
 I am a developer focused on building scalable web solutions while exploring the theoretical frontiers of modern computing. My work bridges the gap between practical software utility and academic research, with a specialized interest in the intersection of technology and visual storytelling.
 
