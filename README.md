@@ -33,4 +33,4 @@ I am a developer focused on building scalable web solutions while exploring the 
   <img src="space-shooter.gif" alt="Space Shooter Contribution Graph" width="100%" />
 </p>
 
-<img src="koi/koi.gif" width="60%" alt="My koi" align = "centre" />
+<img src="koi/koi.gif" width="60%" alt="My koi" align = "centre"/>
